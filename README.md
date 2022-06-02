@@ -1,6 +1,10 @@
 
 **DICE GAME USING JAVA SCRIPT**
 
+it is a very simple game but i found it very intresting & I think it is very good project for beginners for better understanding of java script and DOM. 
+*you can try the game here* [game-link](https://pavankalyanbvv.github.io/dice-game/)
+
+**Game Rules**
 - you will be given 10 seconds to guess a number on dice ,after 10 sec the dice is rolled
 - upon completion of 10 sec you will be displayed the rolled dice and indicated the crt ans with green and wrong with red and notified using different sounds
 - the result will be displayed for 2 sec 
